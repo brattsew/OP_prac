@@ -21,8 +21,3 @@ cd Classification
 uv sync
 uv run python main.py
 ```
-
-Для `Parser` подробная инструкция находится в `Parser/README.md`.
-Для `Classification` подробности и ответы на контрольные вопросы находятся в `Classification/REPORT.md`.
-Работа `Time` оформлена в ноутбуке `Time/forecast_timeseries.ipynb`.
-
